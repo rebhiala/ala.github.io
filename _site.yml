@@ -1,39 +1,13 @@
-name: Dhafer Malouche
+name: rebhi ela
 output_dir: '.'
 navbar:
-  title: Dhafer Malouche
+  title: rebhi ela
   type: inverse
   left:
   - text: Home
     icon: fa-home
     href: index.html
-  - text: Teaching
-    menu: 
-      - text: Bayesian Statistics
-        href: https://malouche.github.io/BayesianStatistics/index.html
-      - text: Python 
-      - text: Big Data
-      - text: Data Mining (in French)
-      - text: Times Series (in French)
-  - text: R Tips
-    menu:
-      - text: Reports and Slides
-      - href: https://malouche.github.io/ReportSlidesWithR/
-  - text: Softwares/Apps
-    href: apps.html
-  - text: Talks
-    href: slides.html
-  - text: My CV
-    href: dhafermalouche_cvOct2018.html
-  right:
-  - icon: fa-envelope fa-lg
-    href: contact.html
-  - icon: fa-github fa-lg
-    href: http://github.com/malouche
-  - icon: fa-linkedin fa-lg
-    href: https://www.linkedin.com/in/dhafer-malouche-b54629b/
-  - icon: fa-facebook fa-lg
-    href: https://www.facebook.com/dhafer.malouche
+
 output:
   html_document:
     theme: yeti
